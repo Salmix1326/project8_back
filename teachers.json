@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1753212885943,
+    "name": "Учитель 1",
+    "subject": "Математика",
+    "photo": "https://cdn-icons-png.flaticon.com/512/168/168726.png"
+  },
+  {
+    "id": 1753214214850,
+    "name": "Учитель 2",
+    "subject": "Физика",
+    "photo": "https://cdn-icons-png.flaticon.com/512/168/168726.png"
+  },
+  {
+    "id": 1753214234119,
+    "name": "Учитель 3",
+    "subject": "Химия",
+    "photo": "https://cdn-icons-png.flaticon.com/512/168/168726.png"
+  }
+]
