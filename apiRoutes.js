@@ -1,5 +1,5 @@
 // routes.js
-const API_BASE_URL = 'https://admirable-quokka-7bcc82.netlify.app'
+const API_BASE_URL = 'https://admirable-quokka-7bcc82.netlify.app/api'
 
 export default {
   // GET: Отримати всіх вчителів
